@@ -10,7 +10,7 @@
 .alert {
   background-color: #ff5252;
   border-bottom: 2px solid #eee;
-  overflow: hidden;
+  flex-shrink: 0;
 }
 
 a {
@@ -19,7 +19,7 @@ a {
 
 h3 {
   font-size: 1.5rem;
-  margin: 1em;
+  margin: 0.5em 1em;
   text-align: center;
 }
 </style>

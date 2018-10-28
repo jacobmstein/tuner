@@ -45,7 +45,6 @@ export default {
 #app {
   display: flex;
   flex-direction: column;
-  flex-shrink: 0;
   height: 100vh;
 }
 
